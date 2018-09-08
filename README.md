@@ -2,6 +2,7 @@
 
 # 平台创建仓库2.0
 
+.gitignore
 # 本地项目提交
 
 # git init // 初始化git项目
